@@ -5,6 +5,7 @@
 - Laboratories
 - Notes
 - Contributing
+- License
 
 ## Introduction
 
