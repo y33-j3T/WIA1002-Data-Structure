@@ -10,8 +10,8 @@
 ## Introduction
 
 ## Laboratories
-- L1Q1
-- L1Q2
+- L01
+- L02
 
 ## Notes
 
