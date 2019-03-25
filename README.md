@@ -12,6 +12,7 @@
 ## Laboratories
 - L01
 - L02
+- L03
 
 ## Notes
 
