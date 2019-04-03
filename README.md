@@ -31,7 +31,7 @@ Data structure was one of the courses I took during my studies in [University of
 - Please refer to [CONTRIBUTE.md](./CONTRIBUTE.md) for details. :heart_eyes:
 
 ## License
-Data Structure is licensed under the [MIT license](./LICENSE).
+Data Structure is released under the [MIT license](./LICENSE).
 
 [1]: https://www.um.edu.my/
 [2]: http://www.fsktm.um.edu.my/
