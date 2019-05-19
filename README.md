@@ -1,5 +1,5 @@
 # Data Structure
-My solutions for the lab works of a data structure course.
+My solutions for the lab works of a data structure course in Java.
 
 ## Contents
 - [Introduction](#Introduction)
@@ -9,7 +9,7 @@ My solutions for the lab works of a data structure course.
 - [License](#License)
 
 ## Introduction
-Data structure was one of the courses I took during my studies in [University of Malaya, Malaysia][1] under the [Faculty of Computer Science and Information Technology][2]. This repository consists of my solutions on the labaratories of the course as of June 2019.
+Data structure was one of the courses I took during my studies in [University of Malaya, Malaysia][1] under the [Faculty of Computer Science and Information Technology][2]. It was conducted using Java. This repository consists of my solutions on the labaratories of the course as of June 2019.
 
 ## Laboratories
 - [L01](./L01)
