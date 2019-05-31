@@ -1,0 +1,54 @@
+Good day!
+Welcome to the first lab test for WIA1002 and WIB1002 Data Structure.
+
+You are given two tests today, namely, Lab Test 1 and Honesty Test. 
+We believe all of you can pass the Honesty Test. 
+Don’t disappoint your lecturers. 
+As for Lab Test 1, if you fail it you just need to work harder from now on. 
+If you fail your Honesty Test, you DISGRACE yourself, and the whole education system!!!
+
+Put away all of your books and notes. 
+Off your mobile phone. 
+Do not communicate with anyone except your lecturer or teaching assistants. 
+Any form of misconduct copying will be severely penalised.
+
+This is an hour quiz, and PLEASE READ THE INSTRUCTION CAREFULLY TILL THE LAST LINE before you start.
+The total mark for this quiz is 5.
+
+You question begin here:
+Word count is a common tool used by search engine to identify the list of keywords used in a given page.
+It shall return the most frequent occurring words appear in that page.
+Write a word count program that:
+1. read this input file, which is in txt format,
+2. identify the total number of lines and words read, and
+3. return one of the most frequent occurring words and how many times it appear in the text.
+
+Your program should return the following output:
+
+Total line: 45
+The total words :488
+One of the most frequent occuring words is 'You' which has appeared 28 times
+
+To ease your work assume that:
+1. The text comprises of maximum 1000 words,
+2. Words with different capitalisation are considered as a unique word, and
+3. An empty line is not counted.
+
+This is the marking scheme for this quiz:
+1. You will score full marks if you are good enough to answer all the questions correctly, including the extra question given.
+   Well done, and keep in up!!!
+2. You will score FOUR marks if you are good enough to answer all the questions correctly, except the extra question given.
+   Good job, and a little bit more to go.
+3. You will score THREE marks if you can get the total of words.
+   Not bad, and you need to practise more.
+4. You will score TWO marks if you can get the total of lines.
+   Yeah, nearly there. Practise, practise and more practise.
+5. You will score ONE marks if you can only read this file.
+   Well, at least you still remember one of the lecture of FoP. 
+   You should revise your FoP and work very hard, 
+   else you will have high possibility to continue this subject next semester.
+6. You will get score ZERO if and only if you could not answer all the questions correctly.
+   We do not expect this, if so please consider to resit your FoP!!!
+
+All the best and you may start now.
+If you have any questions please raise your hand and you will be attended at the soonest possible.

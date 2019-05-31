@@ -1,0 +1,9 @@
+Wednesday, 20 February 2019.
+
+My name is Tan Yee Jet with matrix number, WID180503. I am majoring in Artificial Intelligence. This is my first time taking the Data Structure subject. At the moment, I am feeling pretty good about taking this subject. This is because I get to understand further how the computer's internal memory works when I run my programs.
+
+I acquired A for my previous Programming 1 course. It's not too bad. Not good either. So, I think I can manage to get A+ for this DS subject this term to make it up for the last one. In order to do well in the subject, I will spend at least an hour contributing to GitHub every day, either towards codes or documentations. Wish me luck!
+
+29 May 2019
+
+It's me again. Finally, it's the end of the term and the DS class has finished! I think I performed pretty well in the class. I am quite happy with my performance. Learning DS has let me better understand how data are organized in computer memories. There has been no change to my target grade. I think writing clean codes and stating explanations for each function using comments was the part I did well during the course. I wish our lecturers had a better command of english and that UM could let students sign their attndance using QR codes so that the course could be done better. 
