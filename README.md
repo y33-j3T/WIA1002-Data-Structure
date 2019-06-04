@@ -22,6 +22,8 @@ Data structure was one of the courses I took during my studies in [University of
 - [L08](./L08)
 - [L09](./L09)
 - [L10](./L10)
+- [L11](./L11)
+- [L12](./L12)
 
 ## Notes
 - Questions for each lab can be found in the `Lab(number).pdf` file of each folder.
