@@ -24,6 +24,9 @@ Data structure was one of the courses I took during my studies in [University of
 - [L10](./L10)
 - [L11](./L11)
 - [L12](./L12)
+- [Viva1](./Viva1)
+- [Viva2](./Viva2)
+- [Viva3](./Viva3)
 
 ## Notes
 - Questions for each lab can be found in the `Lab(number).pdf` file of each folder.
