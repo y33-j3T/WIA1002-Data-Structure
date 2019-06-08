@@ -12,7 +12,7 @@ My solutions for the lab works of a data structure course in Java.
 Data structure was one of the courses I took during my studies in [University of Malaya, Malaysia][1] under the [Faculty of Computer Science and Information Technology][2]. It was conducted using Java. This repository consists of my solutions on the labaratories of the course as of June 2019.
 
 ## Laboratories
-- [L01](./L01)
+- [L01 Programming Fundamentals](./L01)
 - [L02](./L02)
 - [L03](./L03)
 - [L04](./L04)
