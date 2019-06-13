@@ -15,7 +15,7 @@ Data structure was one of the courses I took during my studies in [University of
 - [L01 Programming Fundamentals](./L01)
 - [L02 Recursion](./L02)
 - [L03 Generics](./L03)
-- [L04](./L04)
+- [L04 ADT & Bags](./L04)
 - [L05](./L05)
 - [L06](./L06)
 - [L07](./L07)
