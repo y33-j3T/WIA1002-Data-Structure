@@ -17,7 +17,7 @@ Data structure was one of the courses I took during my studies in [University of
 - [L03 Generics](./L03)
 - [L04 ADT & Bags](./L04)
 - [L05 Linked List](./L05)
-- [L06](./L06)
+- [L06 Linked List (2)](./L06)
 - [L07](./L07)
 - [L08](./L08)
 - [L09](./L09)
