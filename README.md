@@ -20,7 +20,7 @@ Data structure was one of the courses I took during my studies in [University of
 - [L06 Linked List (2)](./L06)
 - [L07 Stacks](./L07)
 - [L08](./L08)
-- [L09](./L09)
+- [L09 Queue](./L09)
 - [L10](./L10)
 - [L11](./L11)
 - [L12](./L12)
