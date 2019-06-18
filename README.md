@@ -21,7 +21,7 @@ Data structure was one of the courses I took during my studies in [University of
 - [L07 Stacks](./L07)
 - [L08](./L08)
 - [L09 Queue](./L09)
-- [L10](./L10)
+- [L10 Searching & Sorting](./L10)
 - [L11](./L11)
 - [L12](./L12)
 - [Viva1](./Viva1)
