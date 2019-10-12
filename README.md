@@ -1,5 +1,5 @@
 # Data Structure
-My solutions for the lab works of a data structure course in Java.
+My solutions for the lab works of the stated course.
 
 ## Contents
 - [Introduction](#Introduction)
