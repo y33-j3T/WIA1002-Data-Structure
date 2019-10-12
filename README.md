@@ -1,4 +1,4 @@
-# Data Structure
+# WIA1002 Data Structure
 My solutions for the lab works of the stated course.
 
 ## Contents
